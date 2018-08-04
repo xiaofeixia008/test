@@ -6,7 +6,7 @@ int main(void)
 	int m = 0;
 	int i;
 
-	for ( i=1 ; i<=100 ; ++i)
+	for ( i=1 ; i<=1000 ; ++i)
 	{
 		if ( i % 2 == 0 )
 			k = k + i;
